@@ -1,5 +1,5 @@
 <h1 style="text-align:center; font-size:48px; font-weight:bold;">
-  Hi! I’m Laura, Data & BI Analyst
+  Hi! I’m Laura, Data & BI Analyst 🙋🏻‍♀️
 </h1>
 
 <p>
