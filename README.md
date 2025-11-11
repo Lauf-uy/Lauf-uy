@@ -3,36 +3,33 @@
 </h1>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=30&lines=Welcome+to+my+GitHub+Profile!" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=8B63F8&size=35&lines=Welcome+to+my+GitHub+Profile!" /></a>
 </p>
-
-
-<img align="right" alt="GIF" width="40%" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" />
 
 
 <h2 align="left">About Me:</h2>
 
-<p align="center">
-🔧 - EXCEL - SQL - PYTHON - R
-<p align="center">
-📈 - Power BI - Loocker Studio - Quarto Reports
-<p align="center"> 
+<img align="right" alt="GIF" width="40%" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" />
+
+
 🎓 - Certified in data science by <a href="https://fcea.udelar.edu.uy/" target="_blank">FCEA</a>.
-<p align="center">
+
 💼 - I’m currently working as an Analyst in Wood Supply Control at 
   <a href="https://www.upm.uy/" target="_blank">UPM</a>.
   🌳  
-<p align="center">
+
 🌏- Uruguay-based, collaborating globally.
-<p align="center">
+
 🎙 - Spanish - Portuguese - English 
-<p align="center">
+
 🧐 -Interested in business analytics, automation and data analysis
-<p align="center"> 
+
 🌱 - Currently learning AI & Statistics.
-  <p align="center"> 
+
 💻 - I’m looking to collaborate projects that make use of R, SQL and ML
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/giphy.gif" width="30"> 
+
+
 
 
 <h2 align="left">My Skills:</h2>
