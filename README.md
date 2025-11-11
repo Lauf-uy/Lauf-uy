@@ -23,7 +23,7 @@
 
 🎙 - Spanish - Portuguese - English 
 
-🎓 - Certified in data science by <a href="https://fcea.udelar.edu.uy/" target="_blank">FCEA</a>.
+🎓 - Certified in data science by <a href="https://fcea.udelar.edu.uy/" target="_blank">FCEA</a> & managemet by <a href="https://fcea.udelar.edu.uy/" target="_blank">UDE-FCA</a>
 
 🧐 -Interested in business analytics, automation and data analysis
 
