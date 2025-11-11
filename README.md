@@ -34,7 +34,7 @@
 
 
 
-<h2 align="left">My Skills:</h2>
+<h2 align="left">My Tools:</h2>
 
 - :space_invader:
  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
