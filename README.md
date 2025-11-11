@@ -28,6 +28,8 @@
 <p align="center">
 🌏- Uruguay-based, collaborating globally.
 <p align="center">
+🎙 - Spanish - Portuguese - English 
+<p align="center">
 🧐 -Interested in business analytics, automation and data analysis
 <p align="center"> 
 🌱 - Currently learning AI & Statistics.
