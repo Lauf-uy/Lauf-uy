@@ -35,12 +35,7 @@
 💻 - I’m looking to collaborate projects that make use of R, SQL and ML
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/giphy.gif" width="30"> 
 
-</p>
 
-
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
