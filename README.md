@@ -65,10 +65,11 @@
 <p align="left">
 <p align="left">
 <a href="https://instagram.com/laufernandezcorrea" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hash.prog" height="30" width="40" /></a>  
-<a href="https://github.com/hashfx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hash.prog" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14162484/hash-fx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hash.prog" height="30" width="40" /></a>
-<a href="http://harshsoni-dev.tech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleearth.svg" alt="hash.prog" height="30" width="40" /></a>
+<a href="https://github.com/Lauf-uy/Lauf-uy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hash.prog" height="30" width="40" /></a>
+<a href="https://github.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hash.prog" height="30" width="40" /></a>
+<a href="http://github.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleearth.svg" alt="hash.prog" height="30" width="40" /></a>
 <a href="https://uy.linkedin.com/in/laura-fernandez-correa-414189156" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn - Laura Fernández" height="30" width="40" /></a></p>
+
   
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
