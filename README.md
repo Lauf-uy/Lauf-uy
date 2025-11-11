@@ -60,6 +60,7 @@
 
 <h2 align="left">Look inside my reps:</h2>
 
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 
 <h2 align="left">Connect with me:</h2>  
 <p align="left">
