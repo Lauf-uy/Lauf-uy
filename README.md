@@ -12,15 +12,18 @@
 <img align="right" alt="GIF" width="40%" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" />
 
 
-🎓 - Certified in data science by <a href="https://fcea.udelar.edu.uy/" target="_blank">FCEA</a>.
 
-💼 - I’m currently working as an Analyst in Wood Supply Control at 
+
+🌳 - I’m currently working as an Analyst in Wood Supply Control at 
   <a href="https://www.upm.uy/" target="_blank">UPM</a>.
-  🌳  
+  
+💼 - Open to freelance collaboration on ML, SQL, R, PowerBI Quarto projects
 
 🌏- Uruguay-based, collaborating globally.
 
 🎙 - Spanish - Portuguese - English 
+
+🎓 - Certified in data science by <a href="https://fcea.udelar.edu.uy/" target="_blank">FCEA</a>.
 
 🧐 -Interested in business analytics, automation and data analysis
 
