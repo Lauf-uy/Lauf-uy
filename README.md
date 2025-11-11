@@ -34,9 +34,7 @@
 
 
 
-
 <h2 align="left">My Skills:</h2>
-
 
 - :space_invader:
  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -59,6 +57,18 @@
   ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
   ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+<h2 align="left">Look inside my reps:</h2>
+
+
+<h2 align="left">Connect with me:</h2>  
+<p align="left">
+<p align="left">
+<a href="https://instagram.com/hash.prog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hash.prog" height="30" width="40" /></a>  
+<a href="https://github.com/hashfx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hash.prog" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14162484/hash-fx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hash.prog" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hashprog/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn - Laura Fernández" height="30" width="40" /></a>
+<a href="http://harshsoni-dev.tech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleearth.svg" alt="hash.prog" height="30" width="40" /></a>
 
   
 <p align = "center">
