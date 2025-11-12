@@ -29,7 +29,7 @@
 
 🌱 - Currently learning AI & Statistics.
 
-💻 - I’m looking to collaborate projects that make use of R, SQL and ML
+💻 - Open to collaborating on data-driven projects using R, SQL, and Machine Learning
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/giphy.gif" width="30"> 
 
 
