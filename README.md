@@ -17,7 +17,7 @@
 🌳 - I’m currently working as an Analyst in Wood Supply Control at 
   <a href="https://www.upm.uy/" target="_blank">UPM</a>.
   
-💼 - Open to freelance collaboration on ML, SQL, R, PowerBI Quarto projects
+💼 - Open to freelance collaboration on ML, SQL, R, PowerBI & Quarto projects
 
 🌏- Uruguay-based, collaborating globally.
 
@@ -29,7 +29,7 @@
 
 🌱 - Currently learning AI & Statistics.
 
-💻 - Open to collaborating on data-driven projects using R, SQL, and Machine Learning
+💻 - Turning data into smart  business insights
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/giphy.gif" width="30"> 
 
 
