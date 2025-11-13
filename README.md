@@ -83,7 +83,7 @@
 <h3 align="center">Python+Quarto</h3>
 <div align="center">                                       
 <p>
-<a href="https://lauf-uy.github.io/proyectos-ciencia-/" target="_blank"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" ></a>
+<a href="https://lauf-uy.github.io/proyectos-ciencia-/" target="_blank"><img src="https://media3.giphy.com/media/v1.Y2lkPWZjZGU1NDk1emsxY2J3bjl6MTc2anIxdnY0M3Y2Ymx0ejczdjN2aWllZmltOGdwbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif"  width="550" ></a>
 </a>
 <a href="https://lauf-uy.github.io/proyectos-ciencia-/" target="_blank">
 <img src="https://img.shields.io/badge/-Ver-green?style=for-the-badge&color=fbfc40">
