@@ -75,21 +75,19 @@
 </a>
 </p>
 <p>En este proyecto se muestra cómo se pueden aplicar pruebas estadísticas para investigar datos y cómo usar un enfoque metodológico riguroso para aumentar la confianza en los resultados..</p>
-</div>
-                                                                                      
+</div>                                                                                  
 </td>
-
 <td width="50%">
 <h3 align="center">Python+Quarto</h3>
 <div align="center">                                       
 <p>
-<a href="https://lauf-uy.github.io/proyectos-ciencia-/" target="_blank"><img src="https://media3.giphy.com/media/v1.Y2lkPWZjZGU1NDk1emsxY2J3bjl6MTc2anIxdnY0M3Y2Ymx0ejczdjN2aWllZmltOGdwbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif"  width="550" ></a>
+<a href="https://lauf-uy.github.io/proyectos-ciencia-/" target="_blank"><img src="https://media3.giphy.com/media/v1.Y2lkPWZjZGU1NDk1emsxY2J3bjl6MTc2anIxdnY0M3Y2Ymx0ejczdjN2aWllZmltOGdwbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif"  width="560" ></a>
 </a>
 <a href="https://lauf-uy.github.io/proyectos-ciencia-/" target="_blank">
 <img src="https://img.shields.io/badge/-Ver-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-</p>En este proyecto abordaoms el Anális de una cadena de FoodTrucks co varios restaurantes asociados desde el punto de vista de Business Inteligence.</p>
+</p>En este proyecto abordaoms el Anális de una cadena de FoodTrucks con varios restaurantes asociados desde el punto de vista de Business Inteligence.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
