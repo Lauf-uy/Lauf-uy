@@ -60,8 +60,48 @@
 
 <h2 align="left">Look inside my reps:</h2>
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">R+Quarto+Estadistica</h3>
+<div align="center">
+<a href="https://lauf-uy.github.io/proyectos-ciencia-/" target="_blank"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" ></a>
+<p>
+</a>
+<a href="https://lauf-uy.github.io/proyectos-ciencia-/" target="_blank">
+<img src="https://img.shields.io/badge/-Ver-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>En este proyecto se muestra cómo se pueden aplicar pruebas estadísticas para investigar datos y cómo usar un enfoque metodológico riguroso para aumentar la confianza en los resultados..</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<h3 align="center">Python+Quarto</h3>
+<div align="center">                                       
+<p>
+<a href="https://lauf-uy.github.io/proyectos-ciencia-/" target="_blank"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" ></a>
+</a>
+<a href="https://lauf-uy.github.io/proyectos-ciencia-/" target="_blank">
+<img src="https://img.shields.io/badge/-Ver-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+</p>En este proyecto abordaoms el Anális de una cadena de FoodTrucks co varios restaurantes asociados desde el punto de vista de Business Inteligence.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+
+
+
+
+
+
+--------------------------------------------
 <h2 align="left">Connect with me:</h2>  
 <p align="left">
 <p align="left">
