@@ -87,7 +87,7 @@
 <img src="https://img.shields.io/badge/-Ver-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-</p>En este proyecto abordaoms el Anális de una cadena de FoodTrucks con varios restaurantes asociados desde el punto de vista de Business Inteligence.</p>
+</p>En este proyecto abordamos el Anális de varios locales de de Dark Kitchen, desde el punto de vista de Business Inteligence. Se pretende entender cuales son los indicadores claves para el negocio y como optimizarlos para ajustarse mejor a la demand y lograr mas eficiencia.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
