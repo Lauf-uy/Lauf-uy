@@ -30,7 +30,8 @@
 🌱 - Currently learning AI & Statistics.
 
 💻 - Turning data into smart  business insights
-<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/giphy.gif" width="30"> 
+
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/giphy.gif" width="30"> I also automate with make & n8n
 
 
 
