@@ -25,6 +25,8 @@
 
 🎓 - Certified in managemet by <a href="https://fcea.udelar.edu.uy/" target="_blank">UDE-FCA</a> & data science by <a href="https://fcea.udelar.edu.uy/" target="_blank">FCEA</a> 
 
+🔥 - Excel ninja skills
+
 🧐 -Interested in business analytics, automation and data analysis
 
 🌱 - Currently learning AI & Statistics.
