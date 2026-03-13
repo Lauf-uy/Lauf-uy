@@ -35,7 +35,9 @@
 
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/giphy.gif" width="30"> I also automate with make & n8n
 
-
+Check my Resume:
+Accede a mi CV: 
+https://github.com/Lauf-uy/CVLauf/blob/main/Laura%20Fern%C3%A1ndez%20Correa%20CV26v01%20english%20version.pdf
 
 <h2 align="left">My Tools:</h2>
 
