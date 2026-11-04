@@ -23,7 +23,7 @@
 
 🎙 - Spanish - Portuguese - English 
 
-🎓 - Certified in managemet by <a href="https://fcea.udelar.edu.uy/" target="_blank">UDE-FCA</a> & data science by <a href="https://fcea.udelar.edu.uy/" target="_blank">FCEA</a> 
+🎓 - Certified in management by <a href="https://fcea.udelar.edu.uy/" target="_blank">UDE-FCA</a> & data science by <a href="https://fcea.udelar.edu.uy/" target="_blank">FCEA</a> 
 
 🔥 - Excel ninja skills
 
