@@ -14,8 +14,7 @@
 
 
 
-🌳 - I’m currently working as an Analyst in Wood Supply Control at 
-  <a href="https://www.upm.uy/" target="_blank">UPM</a>.
+🌳 - I’m currently working as an Sr. Data Analyst to Oneforma proyect.
   
 💼 - Open to freelance collaboration on ML, SQL, R, PowerBI & Quarto projects
 
@@ -73,7 +72,7 @@ https://github.com/Lauf-uy/CVLauf/blob/main/Laura%20Fern%C3%A1ndez%20Correa%20CV
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">R+Quarto+Estadistica</h3>
+<h3 align="center">R+Quarto+Estadística</h3>
 <div align="center">
 <a href="https://lauf-uy.github.io/proyectos-ciencia-/" target="_blank"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" ></a>
 <p>
@@ -82,7 +81,7 @@ https://github.com/Lauf-uy/CVLauf/blob/main/Laura%20Fern%C3%A1ndez%20Correa%20CV
 <img src="https://img.shields.io/badge/-Ver-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>En este proyecto se muestra cómo se pueden aplicar pruebas estadísticas para investigar datos y cómo usar un enfoque metodológico riguroso para aumentar la confianza en los resultados..</p>
+<p>Análisis de salarios del sector de Data: En este proyecto se muestra cómo se pueden aplicar pruebas estadísticas para investigar datos y cómo usar un enfoque metodológico riguroso para aumentar la confianza en los resultados.</p>
 </div>                                                                                  
 </td>
 <td width="50%">
@@ -95,7 +94,7 @@ https://github.com/Lauf-uy/CVLauf/blob/main/Laura%20Fern%C3%A1ndez%20Correa%20CV
 <img src="https://img.shields.io/badge/-Ver-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-</p>En este proyecto abordamos el Anális de varios locales de de Dark Kitchen, desde el punto de vista de Business Inteligence. Se pretende entender cuales son los indicadores claves para el negocio y como optimizarlos para ajustarse mejor a la demand y lograr mas eficiencia.</p>
+</p>En este proyecto abordamos el Análisis de varios locales de Dark Kitchen, desde el punto de vista de Business Intelligence Se pretende entender cuales son los indicadores claves para el negocio y como optimizarlos para ajustarse mejor a la demanda y lograr mas eficiencia.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
