@@ -14,11 +14,11 @@
 
 
 
-🌳 - I’m currently working as an Sr. Data Analyst to Oneforma proyect.
-  
+🌳 - I’m currently working as a Sr. Data Analyst on a OneForma project.
+
 💼 - Open to freelance collaboration on ML, SQL, R, PowerBI & Quarto projects
 
-🌏- Uruguay-based, collaborating globally.
+🌏 - Uruguay-based, collaborating globally.
 
 🎙 - Spanish - Portuguese - English 
 
@@ -26,13 +26,13 @@
 
 🔥 - Excel ninja skills
 
-🧐 -Interested in business analytics, automation and data analysis
+🧐 - Interested in business analytics, automation and data analysis
 
 🌱 - Currently learning AI & Statistics.
 
 💻 - Turning data into smart  business insights
 
-<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/giphy.gif" width="30"> I also automate with make & n8n
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/giphy.gif" width="30"> I also automate with Make & n8n
 
 Check my Resume:
 
@@ -94,7 +94,7 @@ https://github.com/Lauf-uy/CVLauf/blob/main/Laura%20Fern%C3%A1ndez%20Correa%20CV
 <img src="https://img.shields.io/badge/-Ver-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-</p>En este proyecto abordamos el Análisis de varios locales de Dark Kitchen, desde el punto de vista de Business Intelligence Se pretende entender cuales son los indicadores claves para el negocio y como optimizarlos para ajustarse mejor a la demanda y lograr mas eficiencia.</p>
+</p>En este proyecto abordamos el Análisis de varios locales de Dark Kitchen, desde el punto de vista de Business Intelligence. Se pretende entender cuáles son los indicadores claves para el negocio y como optimizarlos para ajustarse mejor a la demanda y lograr más eficiencia.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
